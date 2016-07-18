@@ -16,8 +16,11 @@
     background-position: -65px -5px;
 }
 
-.sprite-icon-header-like {     width: 90px;     height: 90px;     background-
-position: -165px -5px; }
+.sprite-icon-header-like {
+    width: 90px;
+    height: 90px;
+    background-position: -165px -5px;
+}
 
 .sprite-icon-header-star {
     width: 90px;
@@ -25,86 +28,38 @@ position: -165px -5px; }
     background-position: -5px -105px;
 }
 
-.sprite-icon-main-advantages-award {
-    width: 31px;
-    height: 40px;
-    background-position: -265px -5px;
-}
-
-.sprite-icon-main-advantages-browser {
-    width: 42px;
-    height: 40px;
-    background-position: -5px -55px;
-}
-
-.sprite-icon-main-advantages-diagramm {
-    width: 41px;
-    height: 40px;
-    background-position: -265px -55px;
-}
-
-.sprite-icon-main-advantages-phone {
-    width: 30px;
-    height: 40px;
-    background-position: -105px -105px;
-}
-
-.sprite-icon-main-advantages-processor {
-    width: 43px;
-    height: 40px;
-    background-position: -145px -105px;
-}
-
-.sprite-icon-main-advantages-pulse {
-    width: 53px;
-    height: 40px;
-    background-position: -198px -105px;
-}
-
-.sprite-icon-main-advantages-rate {
-    width: 41px;
-    height: 40px;
-    background-position: -261px -105px;
-}
-
-.sprite-icon-main-advantages-security {
-    width: 34px;
-    height: 40px;
-    background-position: -105px -155px;
-}
-
 .sprite-icon-main-best-bill-bag {
     width: 86px;
     height: 86px;
-    background-position: -149px -155px;
+    background-position: -105px -105px;
 }
 
 .sprite-icon-main-best-bill-card {
     width: 86px;
     height: 86px;
-    background-position: -316px -5px;
+    background-position: -201px -105px;
 }
 
 .sprite-icon-main-best-bill-man {
     width: 86px;
     height: 86px;
-    background-position: -316px -101px;
+    background-position: -105px -201px;
 }
 
 .sprite-icon-main-best-bill-portfolio {
     width: 86px;
     height: 86px;
-    background-position: -245px -197px;
+    background-position: -201px -201px;
 }
 
 .sprite-icon-main-best-bill-rate {
     width: 86px;
     height: 86px;
-    background-position: -5px -293px;
+    background-position: -265px -5px;
 }
 
 .sprite-icon-main-best-bill-wallet {
     width: 86px;
     height: 86px;
-    background-position: -101px -293px;
+    background-position: -297px -101px;
 }
